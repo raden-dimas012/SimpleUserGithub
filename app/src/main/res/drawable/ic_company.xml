@@ -1,0 +1,12 @@
+<vector android:height="50dp" android:viewportHeight="512"
+    android:viewportWidth="512" android:width="50dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#FF000000" android:pathData="m496,464h-8v-264a8,8 0,0 0,-8 -8h-88v-176a8,8 0,0 0,-8 -8h-256a8,8 0,0 0,-8 8v96h-88a8,8 0,0 0,-8 8v344h-8a8,8 0,0 0,-8 8v24a8,8 0,0 0,8 8h480a8,8 0,0 0,8 -8v-24a8,8 0,0 0,-8 -8zM392,208h80v256h-80zM136,24h240v440h-56v-120a8,8 0,0 0,-8 -8h-112a8,8 0,0 0,-8 8v120h-56zM304,352v112h-40v-112zM248,352v112h-40v-112zM40,128h80v336h-80zM488,488h-464v-8h464z"/>
+    <path android:fillColor="#FF000000" android:pathData="m104,136h-48a8,8 0,0 0,-8 8v48a8,8 0,0 0,8 8h48a8,8 0,0 0,8 -8v-48a8,8 0,0 0,-8 -8zM96,184h-32v-32h32z"/>
+    <path android:fillColor="#FF000000" android:pathData="m104,216h-48a8,8 0,0 0,-8 8v48a8,8 0,0 0,8 8h48a8,8 0,0 0,8 -8v-48a8,8 0,0 0,-8 -8zM96,264h-32v-32h32z"/>
+    <path android:fillColor="#FF000000" android:pathData="m104,296h-48a8,8 0,0 0,-8 8v48a8,8 0,0 0,8 8h48a8,8 0,0 0,8 -8v-48a8,8 0,0 0,-8 -8zM96,344h-32v-32h32z"/>
+    <path android:fillColor="#FF000000" android:pathData="m408,280h48a8,8 0,0 0,8 -8v-48a8,8 0,0 0,-8 -8h-48a8,8 0,0 0,-8 8v48a8,8 0,0 0,8 8zM416,232h32v32h-32z"/>
+    <path android:fillColor="#FF000000" android:pathData="m408,360h48a8,8 0,0 0,8 -8v-48a8,8 0,0 0,-8 -8h-48a8,8 0,0 0,-8 8v48a8,8 0,0 0,8 8zM416,312h32v32h-32z"/>
+    <path android:fillColor="#FF000000" android:pathData="m160,312h192a8,8 0,0 0,8 -8v-64a8,8 0,0 0,-8 -8h-192a8,8 0,0 0,-8 8v64a8,8 0,0 0,8 8zM248,296h-32v-48h32zM264,248h32v48h-32zM344,296h-32v-48h32zM168,248h32v48h-32z"/>
+    <path android:fillColor="#FF000000" android:pathData="m160,216h192a8,8 0,0 0,8 -8v-64a8,8 0,0 0,-8 -8h-192a8,8 0,0 0,-8 8v64a8,8 0,0 0,8 8zM248,200h-32v-48h32zM264,152h32v48h-32zM344,200h-32v-48h32zM168,152h32v48h-32z"/>
+    <path android:fillColor="#FF000000" android:pathData="m160,120h192a8,8 0,0 0,8 -8v-64a8,8 0,0 0,-8 -8h-192a8,8 0,0 0,-8 8v64a8,8 0,0 0,8 8zM248,104h-32v-48h32zM264,56h32v48h-32zM344,104h-32v-48h32zM168,56h32v48h-32z"/>
+</vector>
